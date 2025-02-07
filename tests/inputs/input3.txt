@@ -1,0 +1,33 @@
+help
+touch file.txt
+touch book1.txt
+mkdir projects
+cd projects
+mkdir csci2270
+cd csci2270
+touch report.txt
+touch tempdata.txt
+ls
+cat report.txt
+rm tempdata.txt
+cd ..
+rm csci2270
+rm csci2270 -r
+pwd
+cd ..
+mkdir classes
+cd classes
+mkdir csci1300
+mkdir csci2270
+mkdir csci2400
+cd csci1300
+touch strings.txt
+edit strings.txt Strings_are_powerful_variable_type.
+cd ..
+cat csci2270
+stat csci2400
+ls
+pwd
+cd ..
+tree
+quit

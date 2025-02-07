@@ -1,0 +1,35 @@
+help
+pwd
+touch file.txt
+touch book1.txt
+mkdir projects
+cd projects
+mkdir csci2270
+cd csci2270
+touch report.txt
+touch tempdata.txt
+ls
+edit report.txt This_is_a_report_for_CSCI2270_Data_Structures_Final_Project_on_File_System_Simulator.
+cat report.txt
+stat report.txt
+cd ..
+rm tempdata.txt
+rm csci2270
+rm csci2270 -r
+pwd
+cd ..
+mkdir classes
+cd classes
+mkdir csci1300
+mkdir csci2270
+mkdir csci2400
+cd csci1300
+touch strings.txt
+edit strings.txt Strings_are_powerful_variable_type.
+cd ..
+cat csci2270
+stat csci2400
+cd ..
+cd ..
+tree
+quit
