@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -g -rdynamic CMakeFiles/run_tests.dir/tests/test.cpp.o CMakeFiles/run_tests.dir/tests/test_helpers.cpp.o CMakeFiles/run_tests.dir/code_1/fileSim.cpp.o -o run_tests  -lgtest_main /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -g -rdynamic CMakeFiles/run_app_1.dir/app_1/main_1.cpp.o CMakeFiles/run_app_1.dir/code_1/fileSim.cpp.o -o run_app_1 

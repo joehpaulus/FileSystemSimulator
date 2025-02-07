@@ -1,0 +1,5 @@
+/home/jovyan/CSCI 2270/final-project-joe/build/CMakeFiles/run_tests.dir
+/home/jovyan/CSCI 2270/final-project-joe/build/CMakeFiles/run_app_1.dir
+/home/jovyan/CSCI 2270/final-project-joe/build/CMakeFiles/test.dir
+/home/jovyan/CSCI 2270/final-project-joe/build/CMakeFiles/edit_cache.dir
+/home/jovyan/CSCI 2270/final-project-joe/build/CMakeFiles/rebuild_cache.dir
